@@ -23,6 +23,7 @@ class vehicle():
         pass
         
     def turn_left(self):
+        pass
 
 # car類別(繼承vehicle)
 class car(vehicle):
